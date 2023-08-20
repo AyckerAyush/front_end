@@ -1,0 +1,52 @@
+*{
+    padding: 0px;
+    margin:  0px ;
+}
+.card_body{
+   
+    padding: 10px;
+    background-color:whitesmoke;
+    
+}
+.card{
+    padding: 20px;
+    /* margin-bottom: ; */
+    height: max-content;
+    width: 250px;
+    background-color: white;
+    border-radius: 10px;
+}
+.card_top{
+    /* padding: 5px; */
+    height: 20px;
+    font-weight: 0.2;
+}
+.identity{
+    font-size: 0.8rem;
+}
+.card_middle{
+    display: flex;
+    padding: 10px;
+    height: 25px;
+    overflow: auto;
+    /* word-break: break-all; */
+    /* flex-wrap: nowrap; */
+    /* flex-direction: ; */
+    font-size: 0.5rem;
+}
+.card_bottom{
+    /* padding: 5px; */
+    display: flex;
+    height: 20px;
+}
+input{
+    display: flex;
+    flex-direction: left;
+    background-color: black;
+}
+.user{
+    height: 30px;
+}
+input{
+    padding: 20px;
+}
